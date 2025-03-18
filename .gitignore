@@ -27,3 +27,17 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore IntelliJ IDEA settings
+.idea/
+
+# Ignore build artifacts
+target/
+
+# Ignore IntelliJ module files
+*.iml
+
+
+# Default ignored files
+/shelf/
+/workspace.xml
